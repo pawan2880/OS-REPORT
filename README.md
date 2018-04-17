@@ -1,5 +1,5 @@
 # OS-REPORT
-This report contains program on the disk scheduling algorithm SCAN(ELEVETOR ALGO) and  priority scheduling algorithm written in c language.
+This report contains program on the disk scheduling algorithm SCAN(ELEVATOR ALGO) and  priority scheduling algorithm written in c language.
 
 	Q.No.		Scheduling-Algorithm		File-Name
 	
