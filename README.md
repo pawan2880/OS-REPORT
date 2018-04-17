@@ -4,4 +4,4 @@ This report contains program on the disk scheduling algorithm SCAN(ELEVETOR ALGO
 	Q.No.		Scheduling-Algorithm		File-Name
 	
 	15.		  SCAN algorithm      		scanalgo.c
-	18.		  Priority		            priority.c
+	18.		  Priority		        priority.c
